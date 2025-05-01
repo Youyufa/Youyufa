@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Youyufa
-- 👀 I’m interested in Linshuyue
+- 👀 I’m interested in Planning and Control Algorithms
 - 🌱 I’m currently learning singing，dancing，rap，basketball
 - 💞️ I’m looking to collaborate on graduating
 - 📫 How to reach me 
